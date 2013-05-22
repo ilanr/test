@@ -9,7 +9,10 @@ void add_function(int a, int b)
 {
     return a+b;
 }
-    
+void div(int a, int b)
+{
+    return a/b;
+}
 void sub_func(int a, int b)
 {
     return a-b;
