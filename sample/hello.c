@@ -17,3 +17,7 @@ void sub_func(int a, int b)
 {
     return a-b;
 }
+void test_branch(int a,int b)
+{
+    return a;
+}
