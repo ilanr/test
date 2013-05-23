@@ -8,4 +8,5 @@ int main()
 void test()
 {
     printf("test");
+    printf(" checking amed command");
 }
