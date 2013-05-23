@@ -17,3 +17,7 @@ void sub_func(int a, int b)
 {
     return a-b;
 }
+void test_appl_branch(int a)
+{
+    return a;
+}
