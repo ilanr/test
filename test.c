@@ -30,3 +30,8 @@ void test6()
 {
     printf(" test 6");
 }
+
+void remote()
+{
+    printf (" remote change ");
+}
