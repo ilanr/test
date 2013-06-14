@@ -35,3 +35,7 @@ void remote()
 {
     printf (" remote change ");
 }
+void local()
+{
+    printf ("local change ");
+}
