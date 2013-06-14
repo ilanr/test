@@ -18,3 +18,7 @@ void test1()
     printf(" test1 \n");
 
 }
+void test3()
+{
+    printf (" test 3");
+}
