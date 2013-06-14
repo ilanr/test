@@ -22,3 +22,7 @@ void test3()
 {
     printf (" test 3");
 }
+void test4()
+{
+    printf (" test 4");
+}
