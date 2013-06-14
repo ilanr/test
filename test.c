@@ -26,3 +26,7 @@ void test4()
 {
     printf (" test 4");
 }
+void test6()
+{
+    printf(" test 6");
+}
