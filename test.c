@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+
+
+
 int main()
 {
     printf(" learning git \n");
@@ -9,4 +12,9 @@ void test()
 {
     printf("test");
     printf(" checking amed command");
+}
+void test1()
+{
+    printf(" test1 \n");
+
 }
